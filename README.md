@@ -1,2 +1,2 @@
 # 36-350
-For class projects
+This is repository for class projects.
